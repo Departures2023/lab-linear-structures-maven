@@ -62,6 +62,7 @@ public class LinkedQueue<T> implements Queue<T> {
     }
     Node<T> newNode = new Node<T>(val, null);
     this.back.next = newNode;
+    this.back = newNode;
   } // put(T)
 
   @Override
