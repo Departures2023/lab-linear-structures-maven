@@ -8,7 +8,7 @@ import java.util.NoSuchElementException;
  * Priority queues implemented with arrays.
  *
  * @author Samuel A. Rebelsky
- * @author Your Name Here
+ * @author Khanh Do, Kevin Tang
  */
 public class ArrayBasedPriorityQueue<T> implements PriorityQueue<T> {
   // +--------+----------------------------------------------------------

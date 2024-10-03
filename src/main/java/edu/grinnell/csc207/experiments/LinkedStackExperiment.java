@@ -7,7 +7,7 @@ import edu.grinnell.csc207.linear.ReportingLinearStructure;
  * A really simple experiment with LinkedStack objects.
  *
  * @author Samuel A. Rebelsky
- * @author Your Name Here
+ * @author Khanh Do, Kevin Tang
  */
 public class LinkedStackExperiment {
   /**

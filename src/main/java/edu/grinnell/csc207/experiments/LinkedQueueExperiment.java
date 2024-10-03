@@ -6,7 +6,7 @@ import edu.grinnell.csc207.linear.LinkedQueue;
  * A really simple experiment with Linked Queue objects.
  *
  * @author Samuel A. Rebelsky
- * @author Your Name Here
+ * @author Khanh Do, Kevin Tang
  */
 public class LinkedQueueExperiment {
   /**

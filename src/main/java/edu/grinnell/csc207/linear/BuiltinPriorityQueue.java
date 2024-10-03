@@ -10,7 +10,7 @@ import java.util.NoSuchElementException;
  * most of the methods.)
  *
  * @author Samuel A. Rebelsky
- * @author Your Name Here
+ * @author Khanh Do, Kevin Tang
  */
 public class BuiltinPriorityQueue<T> implements PriorityQueue<T> {
   // +--------+----------------------------------------------------------
