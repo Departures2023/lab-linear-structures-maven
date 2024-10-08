@@ -5,6 +5,7 @@ Authors:
 * Samuel A. Rebelsky
 * Khanh Do
 * Kevin Tang
+* Anthony Castleberry
 
 The latest version of the CSC-207 lab on linear structures, now with Maven.
 
